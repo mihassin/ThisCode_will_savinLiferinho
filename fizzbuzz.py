@@ -7509,3 +7509,4 @@ print('hello world')
 
 def main():
   print('gotcha')
+main()
